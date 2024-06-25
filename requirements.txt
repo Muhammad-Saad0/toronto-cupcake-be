@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+fastapi_mail
+stripe
